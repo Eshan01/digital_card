@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digital_card/static/css/main.a0a67ad2.css",
+    "main.js": "/digital_card/static/js/main.6eb2ef26.js",
+    "static/media/profile-img.JPG": "/digital_card/static/media/profile-img.ca252905061463ec6da2.JPG",
+    "static/media/Instagram.svg": "/digital_card/static/media/Instagram.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/GitHub.svg": "/digital_card/static/media/GitHub.23d6dfa78140e8017f08351385915806.svg",
+    "index.html": "/digital_card/index.html",
+    "main.a0a67ad2.css.map": "/digital_card/static/css/main.a0a67ad2.css.map",
+    "main.6eb2ef26.js.map": "/digital_card/static/js/main.6eb2ef26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a67ad2.css",
+    "static/js/main.6eb2ef26.js"
+  ]
+}
